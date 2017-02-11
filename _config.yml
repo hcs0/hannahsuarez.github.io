@@ -1,7 +1,7 @@
 
 # SEO settings
 title: "Superuser Ltd"
-title2: "by hcs0" # default: ""
+title2: " by hcs0" # default: ""
 description: "hcs0 writings"
 keywords: "hcs0, superuser-ltd"
 url: http://superuser-ltd.github.io # site url
@@ -24,7 +24,7 @@ sass:
 # Author settings
 author:
   name     : "Hannah Suarez"
-  job      : "Consultant"
+  job      : "💻 Consultant and Traveler ✈️ with an interest in 🔐"
   bio      : "Coming soon"
   thumb    : /images/the_new_skin.jpg
   url      : http://superuser-ltd.github.io
