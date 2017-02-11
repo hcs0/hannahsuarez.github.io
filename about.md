@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-**About Hannah Suarez**
+**About hcs0**
 
 I am currently a consultant for a secure file transfer software, open source
 enthusiast and contributor and currently pursuing further specializing in
