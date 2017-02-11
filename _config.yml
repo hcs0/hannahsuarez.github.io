@@ -24,8 +24,8 @@ sass:
 # Author settings
 author:
   name     : "Hannah Suarez"
-  job      : "💻 Consultant and Traveler ✈️ with an interest in 🔐"
-  bio      : "Coming soon"
+  job      : "💻 Consultant"
+  bio      : "...and Traveler ✈️ with an interest in InfoSec 🔐"
   thumb    : /images/the_new_skin.jpg
   url      : http://superuser-ltd.github.io
   github   : http://github.com/hcs0
