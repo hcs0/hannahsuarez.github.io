@@ -1,18 +1,12 @@
 
 # SEO settings
-title: "superuser-ltd"
+title: "Superuser Ltd"
 title2: "by hcs0" # default: ""
 description: "hcs0 writings"
 keywords: "hcs0, superuser-ltd"
 url: http://superuser-ltd.github.io # site url
 baseurl: "null" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
-
-# Adding this soon
-# google_analytics: UA-XXXXX-XX
-# repo: http://github.com/
-# twitter_username: "hcs0"
-# comments: true 
 
 # Build settings
 permalink   : /:year/:title/
