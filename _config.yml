@@ -1,1 +1,57 @@
-theme: jekyll-theme-hacker
+
+# SEO settings
+title: "superuser-ltd"
+title2: "by hcs0" # default: ""
+description: "hcs0 writings"
+keywords: "hcs0, superuser-ltd"
+url: http://superuser-ltd.github.io/writings # site url
+baseurl: "/writings" # apply repo name if use it under gh-pages branch
+# baseurl: null # apply null if repo name is something like username.github.io
+
+# Adding this soon
+# google_analytics: UA-XXXXX-XX
+# repo: http://github.com/
+# twitter_username: "hcs0"
+# comments: true 
+
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
+
+source: ./
+destination: ./_site
+
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
+author:
+  name     : "Hannah Suarez"
+  job      : "Consultant"
+  bio      : "Coming soon"
+  thumb    : /images/the_new_skin.jpg
+  url      : http://superuser-ltd.github.io
+  github   : http://github.com/hcs0
+  twitter  : http://twitter.com/superruserr
+  linkedin : http://linkedin.com/in/hannahsuarez
+
+# social settings
+og_locale: "en_US"
+twitter_card: "summary_large_image"
+twitter_site: "@superruserr
+
+gems:
+  - bourbon
+  - jekyll-paginate
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
