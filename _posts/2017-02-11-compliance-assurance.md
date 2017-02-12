@@ -9,17 +9,17 @@ keywords: "ISO, HIPAA, HITECH, FIPS 140-2, GPG14"
 This page to contain a list of compliance and assurance programs.
 
 
-### HIPAA/HITECH
+# HIPAA/HITECH
 
 
-### FIPS 140-2
+# FIPS 140-2
 
 
-### GPG13
+# GPG13
 
 
-### ISO/IEC 27001:2005
+# ISO/IEC 27001:2005
 
 
 
-> This content is currently under development.
+> Your mileage may vary.  This content is constantly under development and may change at any time.
