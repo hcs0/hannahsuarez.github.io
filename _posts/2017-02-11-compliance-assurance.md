@@ -6,7 +6,9 @@ comments: true
 keywords: "ISO, HIPAA, HITECH, FIPS 140-2, GPG14"
 ---
 
-This page to contain a list of compliance and assurance programs.
+This page to contain a list of compliance and assurance programs. 
+
+> Page is currently a work in progress.
 
 
 # HIPAA/HITECH

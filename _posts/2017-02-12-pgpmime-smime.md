@@ -12,6 +12,8 @@ Originally, I had PGP/MIME set up but what about if a recipient does not have PG
 
 Since you cannot run PGP/MIME and S/MIME together, you only have a choice of implementing one rather.
 
+> Page is currently a work in progress.
+
 
 # What is PGP/MIME (or MIME with PGP)
 
