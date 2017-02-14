@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Checksums"
+title: "Introduction to Checksums"
 description: "Why more sites should implement checksums"
 comments: true
 keywords: "checksums, file integrity"
