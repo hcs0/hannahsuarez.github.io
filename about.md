@@ -1,12 +1,10 @@
 ---
 layout: page
-title: About
+title: About hcs0
 permalink: /about/
 ---
 
 ![HannahSuarez](/assets/images/hannahsuarez.png)
-
-# About hcs0
 
 I am currently a consultant for a secure file transfer software, open source
 enthusiast and contributor and currently pursuing further specializing in
@@ -38,3 +36,4 @@ Australia. I am currently living and traveling in and around Europe.
 
 > Content in this site does not represent my employer or any other
 professional affiliations.
+
