@@ -42,7 +42,7 @@ A couple of things:
 ```
 nmap -v -p [port] --script=smtp-enum-users [target] -d
 ```
-
+```
 Starting Nmap 7.25BETA2 ( https://nmap.org ) at 2017-02-15 23:37 GMT
 --------------- Timing report ---------------
   hostgroups: min 1, max 100000
@@ -91,6 +91,7 @@ Completed NSE at 23:37, 0.00s elapsed
 Read from /usr/bin/../share/nmap: nmap-mac-prefixes nmap-payloads nmap-services.
 Nmap done: 1 IP address (1 host up) scanned in 2.62 seconds
            Raw packets sent: 2 (72B) | Rcvd: 2 (72B)
+```
 
 ### smtp-commands
 
