@@ -18,7 +18,7 @@ first related role in the field was in late 2016.
 I am also autodidact having learnt primarily on my own. I remember at age
 11/12 observing how Internet resources loaded on a page to try and gain more XP
 points at this online game. I learnt how to code by looking at a website's
-source code in my teens using Notepad.  I learn by doing such as tinkering with my homelabs
+source code in my teens using Notepad.  I learn by doing ie homelab/VM setup
 (ie Kali on VM and Kali Nethunter on Android, various Linux OS' on live USB
 etc).
 
