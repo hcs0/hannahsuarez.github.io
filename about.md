@@ -23,7 +23,8 @@ source code in my teens using Notepad.  I learn by doing ie homelab/VM setup
 etc).
 
 On a personal note, I enjoy traveling and living outside of my home country of
-Australia. I am currently living and traveling in and around Europe.
+Australia. I am currently living and traveling in and around Europe.  I am
+based in Berlin, Germany but have previously lived in Dublin, Toronto, London, 
+and Brisbane.
 
-> Content in this site does not represent my employer or any other
-professional affiliations.
+> Content in this site does not represent any of my professional affiliations.
