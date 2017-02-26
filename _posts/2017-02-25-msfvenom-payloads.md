@@ -10,7 +10,6 @@ keywords: "msfvenom, metasploit, payloads"
 
 # Framework Payloads (455 total)
 
-```
     Name                                                Description
     ----                                                -----------
     aix/ppc/shell_bind_tcp                              Listen for a connection and spawn a command shell
@@ -468,7 +467,5 @@ keywords: "msfvenom, metasploit, payloads"
     windows/x64/vncinject/reverse_tcp_uuid              Inject a VNC Dll via a reflective loader (Windows x64) (staged). Connect back to the attacker with UUID Support (Windows x64)
     windows/x64/vncinject/reverse_winhttp               Inject a VNC Dll via a reflective loader (Windows x64) (staged). Tunnel communication over HTTP (Windows x64 winhttp)
     windows/x64/vncinject/reverse_winhttps              Inject a VNC Dll via a reflective loader (Windows x64) (staged). Tunnel communication over HTTPS (Windows x64 winhttp)
-
-```
 
 > Your mileage may vary.  This content is constantly under development and may change at any time.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Full List of 455 MSFVENOM Payloads"
+title: "Full List of recon-ng Modules"
 description: "Full list of payloads that can be generated on msfvenom"
 comments: true
 keywords: "msfvenom, metasploit, payloads"
@@ -10,7 +10,6 @@ keywords: "msfvenom, metasploit, payloads"
 
 # Recon-ng Modules 
 
-```
 Discovery
   ---------
     discovery/info_disclosure/cache_snoop
@@ -115,7 +114,5 @@ Discovery
     reporting/xlsx
     reporting/xml
 
-
-```
 
 > Your mileage may vary.  This content is constantly under development and may change at any time.

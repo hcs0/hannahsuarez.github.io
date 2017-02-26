@@ -27,4 +27,18 @@ Australia. I am currently living and traveling in and around Europe.  I am
 based in Berlin, Germany but have previously lived in Dublin, Toronto, London, 
 and Brisbane.
 
+---------
+
+
+Ich bin derzeit ein Berater für eine sichere Datei-Transfer-Software, Open-Source-Enthusiasten und Mitwirkenden und derzeit verfolgt weitere spezialisiert auf Informationssicherheit.
+
+Das Betreten dieses Feldes ist mein Ziel seit Mitte 2014, eine digitale mobile Forensik Online-Herausforderung abgeschlossen zu haben und mich völlig vertieft zu finden. Meine
+Erste Konferenz war Black Hat als Teil eines Stipendienprogramms im Jahr 2015 und meine erste verwandte Rolle auf dem Feld war Ende 2016.
+
+Ich bin auch Autodidakt, der vor allem auf eigene Faust gelernt hat. Ich erinnere mich an Alter 11/12 beobachten, wie Internet-Ressourcen auf einer Seite geladen, um zu versuchen und mehr XP Punkte in diesem Online-Spiel zu gewinnen. Ich habe gelernt, wie man Code, indem Sie auf einer Website Quellcode in meinem Teenager mit Notepad. Ich lerne, indem ich zB Homelab / VM Setup (dh Kali auf VM und Kali Nethunter auf Android, verschiedene Linux OS 'auf Live USB
+etc).
+
+Auf einer persönlichen Notiz genieße ich es zu reisen und zu leben außerhalb meines Heimatlandes Australien. Ich lebe und reise in und um Europa. ich bin
+Mit Sitz in Berlin, Deutschland aber zuvor in Dublin, Toronto, London und Brisbane gelebt.
+
 > Content in this site does not represent any of my professional affiliations.
