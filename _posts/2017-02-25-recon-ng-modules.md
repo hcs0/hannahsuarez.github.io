@@ -10,6 +10,8 @@ keywords: "msfvenom, metasploit, payloads"
 
 # Recon-ng Modules 
 
+``
+
 Discovery
   ---------
     discovery/info_disclosure/cache_snoop
@@ -114,5 +116,6 @@ Discovery
     reporting/xlsx
     reporting/xml
 
+``
 
 > Your mileage may vary.  This content is constantly under development and may change at any time.
