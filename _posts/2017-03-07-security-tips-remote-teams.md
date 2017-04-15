@@ -40,6 +40,8 @@ It is a good idea to isolate, as much as you can, work from personal.  An exampl
 
 You may also want to utilize the same for personal materials.
 
+You can also test out certain OS, like Qubes OS.
+
 ## Use hardware authentication devices for authentication such as Yubikey
 
 This isn't a stealth promotion for Yubikey, but I have a few of these.  
@@ -107,22 +109,6 @@ You cannot use both S/MIME and PGP/MIME at the same time.
 There is a post on S/MIME and PGP/MIME available at http://superuser-ltd.github.io for further details
 
 
-## Other email tips
-
-Encourage remote workers to add a common email signature template in their emails -this is also good for branding.
-
-Set the email settings to prevent HTML/images loading and to block remote content.  
-
-There are cases when group emails are used for testing out new content or new applications and services.  For example, let's say a group email is use to test out a new third party widget.
-Ideally, an active group email should not be used in this scenario.  Why? It adds unnecessary noise and recipients cannot tell if an email test is actually a test or ... something else.  In this case, it is a good idea to notify the groups first prior to testing that it is legitimate.  That way, when a test is sent to a team account it is not immediately assumed that it is legitimate. 
-
-Email is a common way to kickstart a phishing attack.
-
-My take with phishing is that it is also utilized as part of active information gathering while enumerating the target (aka you, the finance person, the CEO...).  It is like a flaregun pointing to some form of information gathering/enumerating.
-
-Due to this, if encountering potential SE (social engineering) attacks immediately notify the security lead.
-
-
 # Passwords, PAssw0rds, Pass123words
 
 A number of services out there are still reliant on passwords but more and more are using non-password options such as login via third party applications.  Which in itself has its own challenges...
@@ -148,12 +134,6 @@ If you are planning to travel while working, there are some additional precautio
 Some of these are just a few tips.  
 
 When in a public space like a coffee shop, you must use a VPN to secure the connection or consider tethering to your phone.
-
-If possible, connect via wired instead of wireless connection.  Usually not possible in Starbucks, but a number of hotels (and hotel business centres) will have this available.
-
-There is no request so life-endingly urgent that remote team members need to connect to a potentially hostile public network then and there to do the work.  It's similar to being able to compartmentalize your time while on holiday - do you really need to check your work email by the hotel pool? Remind this to your team members, take pause, and go back to the task when you are in a better network (and not on holidays)
-
-When faced with "I'm overseas and don't have access to..." or similar type of request, ask to use a confirmed, secondary communications channel to continue with the request.  In this case, ensure that your contact details are up to date and reachable - especially important if you are constantly on the move between numerous countries.  You may also opt to use a Skype number or something more stable.
 
 While this may be on the expensive end for those with no extra devices, consider using a non-main or travel-only devices while doing short term traveling.  I've had a few devices to use when traveling - even if it's a weekend trip.
 
