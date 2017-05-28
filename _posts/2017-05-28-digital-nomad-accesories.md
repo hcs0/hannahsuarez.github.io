@@ -8,7 +8,7 @@ keywords: "travel"
 
 # Senrio SyncStop (formerly USB Condom)
 
-![Senrio SyncStop](/assets/images/senrio-syncstop.jpg)
+![SenrioSyncStop](/assets/images/senrio-syncstop.jpg)
 
 "SyncStop prevents accidental data exchange when your device is plugged into someone else’s computer or a public charging station. SyncStop achieves this by blocking the data pins on any USB cable and allowing only power to flow through. This minimizes opportunities to steal your data or install malware on your mobile device. 
 
