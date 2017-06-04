@@ -135,8 +135,8 @@ Some of these are just a few tips.
 
 When in a public space like a coffee shop, you must use a VPN to secure the connection or consider tethering to your phone.
 
-While this may be on the expensive end for those with no extra devices, consider using a non-main or travel-only devices while doing short term traveling.  I've had a few devices to use when traveling - even if it's a weekend trip.
+While this may be on the expensive end for those with no extra devices, consider using a non-main or travel-only devices while doing short term traveling.  I've had a few devices to use when traveling - even if it's a weekend trip.  This has helped me in the past, when a mobile was pickpocketed, while it is inconvenient, they were only able to steal my travel mobile phone which contains little personal data.
 
-You may also consider booting via USB.
+If I need to travel and use the main laptop, I take some to prepare the device for travel.
 
 > Your mileage may vary.  This content is constantly under development and may change at any time.
