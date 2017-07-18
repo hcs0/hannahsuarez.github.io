@@ -12,6 +12,8 @@ permalink: /links/
 
 [LinkedIn](https://www.linkedin.com/in/hannahsuarez)
 
+[Email](mailto:info@suarez.id.au)
+
 **Sites**
 
 [Personal Blog](https://www.hannahsuarez.me/blog/)
