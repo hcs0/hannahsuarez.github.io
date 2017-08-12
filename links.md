@@ -16,6 +16,8 @@ permalink: /links/
 
 **Sites**
 
+[Bitrated](https://www.bitrated.com/hannahsuarez)
+
 [Personal Blog](https://www.hannahsuarez.me/blog/)
 
 [Fintech.pw](http://www.fintech.pw)
