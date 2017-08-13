@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Primer on Ethereum"
+title: "Primer on Ethereum - from mining on Testnet to a HelloWorld contract sample"
 description: "An introductory post on getting started with Ethereum"
 comments: true
 keywords: "ethereum, blockchains, cryptocurrency, smart contracts"
