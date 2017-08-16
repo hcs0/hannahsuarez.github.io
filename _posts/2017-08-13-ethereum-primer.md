@@ -14,19 +14,19 @@ The quickest way to get started is to go to the
 then go through the process of downloading the Ethereum Wallet, syncing with
 the nodes and so on.
 
-It takes a long time, so there are plenty of opportunities to read up on
+It takes a long time to sync, so there are plenty of opportunities to read on
 Ethereum, watch videos, and so on.
 
 
-# Obtaining Ethereum
+# Obtaining the stuff
 
 You can mine, purchase from a marketplace, you may even arrange to do a trade
 (ie real items, services) in exchange.
 
-The quickest way to start out is to obtain Ethereum from a marketplace at the
+The quickest way to start out is to obtain from a marketplace at the
 exchange rate stated in that marketplace.
 
-The other option is mining in which you can either mine with your hardware (own)
+The other option is mining in which you can either mine with your hardware (own
 or dedicated hardware purchase) or use a cloud mining service.
 
 I have bought Ethereum from a marketplace and currently trying out a cloud
@@ -171,7 +171,7 @@ As noted by the Ethereum project::
 *Notice that every contract has to implement its own kill clause.
 In this particular case only the account that created the contract can kill it.*
 
-# Developing more complex contracts
+# Developing complex contracts
 
 There are a number of resources out there for developing 
 [Solidity](https://solidity.readthedocs.io/en/develop/)
@@ -183,5 +183,12 @@ as a way to try out the Solidity contract but there are plugins available for
 other IDE.
 
 You will need to obtain more ether on Testnet in order to test these out.
+
+# Stay tuned for more details
+
+I'll be looking into contracts even further, as well as what can be done
+on associated platforms.
+
+Thanks for your time!
 
 > Your mileage may vary.  This content is constantly under development and may change at any time.
