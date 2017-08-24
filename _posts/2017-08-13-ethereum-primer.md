@@ -30,9 +30,7 @@ The other option is mining in which you can either mine with your hardware (own
 or dedicated hardware purchase) or use a cloud mining service.
 
 I have bought Ethereum from a marketplace and currently trying out a cloud
-mining service, [Genesis Mining](https://www.genesis-mining.com). The
-affiliate code that you can use is **VmbO1P** for 3% off.
-
+mining service.
 In the near future I am looking at the options for my own hardware to mine.
 
 
