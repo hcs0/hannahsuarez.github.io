@@ -50,6 +50,8 @@ You can use hardware authentication devices, or keys, so that you can implement 
 
 Yubikey interfaces with a few major providers, but hopefully there are more options available.
 
+Edit on October 16 2017: There is an RSA generation vulnerability found for Yubikey when using the OpenPGP functionality of the YubiKey 4 platform https://crocs.fi.muni.cz/public/papers/rsa_ccs17
+
 ## Harden web browsers
 
 Due to web applications being a large attack surface, you can use secure extensions for browsing.  Extensions include HTTPSEverywhere, ScriptSafe, NoScript, AdBlock and so on. 

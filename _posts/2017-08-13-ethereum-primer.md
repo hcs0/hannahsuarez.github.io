@@ -11,11 +11,12 @@ keywords: "ethereum, blockchains, cryptocurrency, smart contracts"
 
 The quickest way to get started is to go to the
 [Ethereum Project](https://www.ethereum.org/) website, read as much as you can,
-then go through the process of downloading the Ethereum Wallet, syncing with
+then go through the process of downloading the Ethereum Wallet (latest one is
+Mist, the screenshots I show are from a previous version) and syncing with
 the nodes and so on.
 
 It takes a long time to sync, so there are plenty of opportunities to read on
-Ethereum, watch videos, and so on.
+Ethereum, watch videos, and learn more about Ethereum.
 
 
 # Obtaining the stuff
