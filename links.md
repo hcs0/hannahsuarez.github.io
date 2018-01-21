@@ -22,4 +22,6 @@ permalink: /links/
 
 [Github: hcs0](http://www.github.com/hcs0)
 
-[AngelList:](https://angel.co/hannahsuarez)
+[Github: Superuser-Ltd](http://www.github.com/Superuser-Ltd)
+
+[AngelList: hannahsuarez](https://angel.co/hannahsuarez)
