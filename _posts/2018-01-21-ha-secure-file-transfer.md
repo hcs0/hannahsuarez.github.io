@@ -6,4 +6,6 @@ comments: true
 keywords: "file transfer protocols, security, resiliency, high availability, fault tolerance"
 ---
 
-Read the article here.
+This was an article written for a secure file transfer product.
+
+[Read more here](https://www.sftpplus.com/news/2018/sftpplus-ha-resiliency-intro.html)
