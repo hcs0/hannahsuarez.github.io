@@ -10,11 +10,11 @@ permalink: /links/
 
 [LinkedIn](https://www.linkedin.com/in/hannahsuarez)
 
-[Email](mailto:info@suarez.id.au)
+[Public key - work email](https://pgp.mit.edu/pks/lookup?op=get&search=0x2FB6F1FB0FEA6EFF)
+
+[Public key - own email](https://pgp.mit.edu/pks/lookup?op=get&search=0x4C2DCC07E9E12FE6)
 
 **Sites**
-
-[Bitrated](https://www.bitrated.com/hannahsuarez)
 
 [Personal Blog](https://www.hannahsuarez.me/blog/)
 
