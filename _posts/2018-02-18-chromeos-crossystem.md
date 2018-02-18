@@ -16,7 +16,7 @@ The first item that was done was to open the Chromebook.  I've found the fan a b
 
 I took out the battery because originally, I thought that the physical dev mode switch is residing beneath the battery.  This is because the model that I have must have the physical dev mode switch turned on.  I really could not find it at all based on the 2012 model photos provided on the [Developer Information for Chrome OS Devices page](https://www.chromium.org/chromium-os/developer-information-for-chrome-os-devices) and I did read that it resided underneath the battery.  So, off I went looking.  Until I came across a very helpful post of the image [here](https://greenido.files.wordpress.com/2013/08/photo3.jpg) which showed where the dev mode switch was located.
 
-As people described, after the dev mode reboot (`Esc` + `refresh` + `power` button) you see some sort of warning screen. This is already described in a number of posts so I won't repeat it again.  One item I found out is that you can press `Ctrl` + `I` and it will show a text description of the 'not-nice' warning screen.
+As other posters have described, after the dev mode reboot (`Esc` + `refresh` + `power` button) you see some sort of warning screen. This is already described in a number of posts (please see the links below).  One item I found out is that you can press `Ctrl` + `I` and it will show a text description of the 'not-nice' warning screen.
 
 Since there is no git, wget, etc it was not straight forward following through with some of the details already published about putting Crouton on Chromebook, etc.  To git clone, I needed to generate ssh keys, then install git and find a way to transfer keys to my profile. I looked at maybe using sftp/scp through some packages. You can also go through and access/exchange files downloaded from the browser version or files created from dev mode. Whichever mode, I think this is a nice type of setup but currently it's not really at a stage that's currently much use to me other than to poke around.
 
@@ -216,3 +216,14 @@ Not being a big user of ChromeOS products, there was no point in me continuing t
 **What about Crouton?**
 
 There is [Crouton](https://github.com/dnschneid/crouton) which I did manage to download and unzip from dev mode. I initially converted to a `tar` so that I can use `/bin/gzip` to unzip it.  Followed the instructions in trying to run it but no luck.  It may be due to location since it was downloaded to `home/user/CHROME_ID/Downloads` as I was using the browser version. Anyway, I only wanted to see how it looks but I can imagine that I'd want to go ahead and not use ChromeOS anymore and something else.
+
+## Other posts that you may find useful when reading about running Chromebook in dev mode
+
+[OpenBSD on the Chromebook Pixel](https://jcs.org/notaweblog/2016/08/26/openbsd_chromebook)
+
+[CNet - how to enable developer mode](https://www.cnet.com/how-to/how-to-enable-developer-mode-on-a-chromebook/)
+
+[Developer Mode - Chrome OS wiki](https://sites.google.com/site/chromeoswikisite/home/what-s-new-in-dev-and-beta/developer-mode)
+
+[Crouton](https://github.com/dnschneid/crouton)
+
