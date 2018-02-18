@@ -209,7 +209,7 @@ yes
 zcat
 ```
 
-## Which next after ChromeOS?
+## What next after ChromeOS?
 
 Not being a big user of ChromeOS products, there was no point in me continuing to run ChromeOS.  I am looking at a couple of options to run instead.
 
