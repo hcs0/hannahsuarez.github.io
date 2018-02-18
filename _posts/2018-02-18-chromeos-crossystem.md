@@ -10,6 +10,11 @@ keywords: "chromeos, chromebook"
 
 ![Chromebook (Samsung 550 released in 2012)](/assets/images/chromebook-600px.png)
 
+---
+Footnote:
+
+[^1]: 1: Added a ruler for scale.
+
 I have been putting off putting the Chromebook which is a Samsung 550 version released in 2012. I've been planning to get it on dev mode and tinkering around the internals and putting another OS or some other system for a few years. For some reason, I decided to make a start of it this year. It's been sitting on the shelf, unused.  I've been thinking of one or two potential OS, or I may just keep it as is and poke around the internals.  I've found the limitations both frustrating and interesting to work around, being new to working around these systems headless.
 
 The first item that was done was to open the Chromebook.  I've found the fan a bit too loud and wanted to check if there was anything that should be cleaned out with the fan.
