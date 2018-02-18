@@ -10,11 +10,6 @@ keywords: "chromeos, chromebook"
 
 ![Chromebook (Samsung 550 released in 2012)](/assets/images/chromebook-600px.png)
 
----
-Footnote:
-
-[^1]: 1: Added a ruler for scale.
-
 I have been putting off putting the Chromebook which is a Samsung 550 version released in 2012. I've been planning to get it on dev mode and tinkering around the internals and putting another OS or some other system for a few years. For some reason, I decided to make a start of it this year. It's been sitting on the shelf, unused.  I've been thinking of one or two potential OS, or I may just keep it as is and poke around the internals.  I've found the limitations both frustrating and interesting to work around, being new to working around these systems headless.
 
 The first item that was done was to open the Chromebook.  I've found the fan a bit too loud and wanted to check if there was anything that should be cleaned out with the fan.
@@ -23,7 +18,7 @@ I took out the battery because originally, I thought that the physical dev mode 
 
 As people described, after the dev mode reboot (`Esc` + `refresh` + `power` button) you see some sort of warning screen. This is already described in a number of posts so I won't repeat it again.  One item I found out is that you can press `Ctrl` + `I` and it will show a text description of the 'not-nice' warning screen.
 
-Since there is no git, wget, etc it was not straight forward following through with some of the details already published about putting Crouton on Chromebook, etc.  To git clone, I needed to generate ssh keys, then install git and find a way to transfer keys to my profile. I looked at maybe using sftp/scp through some packages. You can also go through and access/exchange files downloaded from the userland/browser version or files created from dev mode. Whichever mode, I think this is a nice type of setup but currently it's not really at a stage that's currently much use to me other than to poke around.
+Since there is no git, wget, etc it was not straight forward following through with some of the details already published about putting Crouton on Chromebook, etc.  To git clone, I needed to generate ssh keys, then install git and find a way to transfer keys to my profile. I looked at maybe using sftp/scp through some packages. You can also go through and access/exchange files downloaded from the browser version or files created from dev mode. Whichever mode, I think this is a nice type of setup but currently it's not really at a stage that's currently much use to me other than to poke around.
 
 ## --crossystem Parameters
 
@@ -105,6 +100,119 @@ Valid parameters:
 
 ```
 
-## Which OS to add instead of ChromeOS?
+## What's in the /bin/?
+
+```
+arping
+attr
+basename
+bash
+brltty
+brltty-atb
+brltty-config
+brltty-ctb
+brltty-ktb
+brltty-trtxt
+brltty-ttb
+brltty-tune
+bunzip2
+bzcat
+bzip2
+cat
+chacl
+chgrp
+chmod
+chown
+chroot
+cp
+cut
+dash
+date
+dd
+df
+dir
+dirname
+dmesg
+dnsdomainname
+du
+echo
+egrep
+env
+eutp
+expr
+false
+fgrep
+findmnt
+getfacl
+getfattr
+grep
+groups
+gunzip
+gzip
+head
+hostname
+ifconfig
+ip
+keyctl
+kill
+kmod
+ln
+login
+ls
+lsblk
+lsmod
+mkdir
+mkfifo
+mknod
+mktemp
+modinfo
+more
+mount
+mountpoint
+mv
+netstat
+passwd
+ping
+ping6
+ps
+pwd
+rbash
+readlink
+rm
+rmdir
+route
+sed
+seq
+setfacl
+setfattr
+sh
+sleep
+sort
+stty
+su
+sync
+tail
+tar
+touch
+tr
+true
+tty
+udevadm
+umount
+uname
+uncompress
+vdir
+vstp
+wc
+wdctl
+yes
+zcat
+```
+
+## Which next after ChromeOS?
 
 Not being a big user of ChromeOS products, there was no point in me continuing to run ChromeOS.  I am looking at a couple of options to run instead.
+
+**What about Crouton?**
+
+There is [Crouton](https://github.com/dnschneid/crouton) which I did manage to download and unzip from dev mode. I initially converted to a `tar` so that I can use `/bin/gzip` to unzip it.  Followed the instructions in trying to run it but no luck.  It may be due to location since it was downloaded to `home/user/CHROME_ID/Downloads` as I was using the browser version. Anyway, I only wanted to see how it looks but I can imagine that I'd want to go ahead and not use ChromeOS anymore and something else.
