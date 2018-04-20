@@ -24,8 +24,8 @@ etc).
 
 On a personal note, I enjoy traveling and living outside of my home country of
 Australia. I am currently living and traveling in and around Europe.  I am
-based in Berlin, Germany but have previously lived in Dublin, Toronto, London, 
-and Brisbane.
+based in France (soon!) but have previously lived in Berlin, Dublin, Toronto,
+London, and Brisbane.
 
 ---------
 
@@ -39,6 +39,6 @@ Ich bin auch Autodidakt, der vor allem auf eigene Faust gelernt hat. Ich erinner
 etc).
 
 Auf einer persönlichen Notiz genieße ich es zu reisen und zu leben außerhalb meines Heimatlandes Australien. Ich lebe und reise in und um Europa. ich bin
-Mit Sitz in Berlin, Deutschland aber zuvor in Dublin, Toronto, London und Brisbane gelebt.
+Mit Sitz in Frankreich, aber zuvor in Berlin, Dublin, Toronto, London und Brisbane gelebt.
 
 > Content in this site does not represent any of my professional affiliations.

@@ -14,9 +14,9 @@ permalink: /links/
 
 [Public key - own email](https://pgp.mit.edu/pks/lookup?op=get&search=0x4C2DCC07E9E12FE6)
 
-I am on Mastodon on the infosec.exchage, marmot.fr and toot.berlin instances.
+I am on Mastodon on the infosec.exchage, mamot.fr and toot.berlin instances.
 
-I am IRC has hcs0.
+I am on IRC as hcs0.
 
 **Sites**
 
