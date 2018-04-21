@@ -14,7 +14,9 @@ permalink: /links/
 
 [Public key - own email](https://pgp.mit.edu/pks/lookup?op=get&search=0x4C2DCC07E9E12FE6)
 
-I am on Mastodon on the infosec.exchage, mamot.fr and toot.berlin instances.
+I am on Mastodon on the infosec.exchage, mamot.fr and toot.berlin instances as superruserr.
+
+I am on Pleroma and GNUSocial as hcs.
 
 I am on IRC as hcs0.
 
@@ -25,6 +27,8 @@ I am on IRC as hcs0.
 [Fintech.pw](http://www.fintech.pw)
 
 [Github: hcs0](http://www.github.com/hcs0)
+
+[Gitlab: hcs0](https://git.pleroma.social/hcs0)
 
 [Github: Superuser-Ltd](http://www.github.com/Superuser-Ltd)
 
