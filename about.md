@@ -29,6 +29,28 @@ London, and Brisbane.
 
 ---------
 
+Je suis actuellement consultant pour un logiciel de transfert de fichiers sécurisé, open source
+enthousiaste et contributeur et poursuivant actuellement plus loin spécialisée dans
+la sécurité de l'information.
+
+Entrer dans ce domaine a été mon objectif depuis la mi-2014 après avoir complété un
+défi en ligne de forensics mobile et de me trouver complètement absorbé. ma
+la première conférence était Black Hat dans le cadre d'un programme de bourses en 2015 et mon
+Le premier rôle connexe dans le domaine était à la fin de 2016.
+
+Je suis aussi autodidacte ayant appris principalement par moi-même. Je me souviens à l'âge
+11/12 observer comment les ressources Internet chargées sur une page pour essayer de gagner plus d'XP
+points à ce jeu en ligne. J'ai appris à coder en regardant un site web
+code source dans mes adolescents en utilisant le Bloc-notes. J'apprends en faisant ie la configuration de homelab / VM
+(par exemple, Kali sur VM et Kali Nethunter sur Android, divers systèmes d'exploitation Linux sur USB en direct
+etc).
+
+Sur une note personnelle, j'aime voyager et vivre en dehors de mon pays d'origine
+Australie. Je vis et voyage actuellement dans et autour de l'Europe. je suis
+basé en France (bientôt!) mais ayant déjà vécu à Berlin, Dublin, Toronto,
+Londres et Brisbane.
+
+---------
 
 Ich bin derzeit ein Berater für eine sichere Datei-Transfer-Software, Open-Source-Enthusiasten und Mitwirkenden und derzeit verfolgt weitere spezialisiert auf Informationssicherheit.
 
@@ -40,5 +62,7 @@ etc).
 
 Auf einer persönlichen Notiz genieße ich es zu reisen und zu leben außerhalb meines Heimatlandes Australien. Ich lebe und reise in und um Europa. ich bin
 Mit Sitz in Frankreich, aber zuvor in Berlin, Dublin, Toronto, London und Brisbane gelebt.
+
+---------
 
 > Content in this site does not represent any of my professional affiliations.
