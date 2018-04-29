@@ -6,6 +6,8 @@ permalink: /about/
 
 ![Author](/assets/images/author.png)
 
+**English**
+
 I am currently a consultant for a secure file transfer software, open source
 enthusiast and contributor and currently pursuing further specializing in
 information security.
@@ -29,6 +31,8 @@ London, and Brisbane.
 
 ---------
 
+**French**
+
 Je suis actuellement consultant pour un logiciel de transfert de fichiers sécurisé, open source
 enthousiaste et contributeur et poursuivant actuellement plus loin spécialisée dans
 la sécurité de l'information.
@@ -51,6 +55,8 @@ basé en France (bientôt!) mais ayant déjà vécu à Berlin, Dublin, Toronto,
 Londres et Brisbane.
 
 ---------
+
+**German**
 
 Ich bin derzeit ein Berater für eine sichere Datei-Transfer-Software, Open-Source-Enthusiasten und Mitwirkenden und derzeit verfolgt weitere spezialisiert auf Informationssicherheit.
 
