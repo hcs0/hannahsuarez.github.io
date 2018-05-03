@@ -39,7 +39,7 @@ Entrer dans ce domaine a été mon objectif depuis la mi-2014 après avoir compl
 
 Je suis aussi autodidacte, ayant appris principalement par moi-même. Je me souviens qu'à l'âge de 11/12 ans, j'observais comment les ressources Internet se chargeaient sur une page pour essayer de gagner plus de points XP à un jeu en ligne. J’ai appris à coder, pendant mon adolescence, en regardant le coude source de sites en utilisant simplement Notepad. J'apprends en faisant de l'installation homelab/VM (Kali sur VM et Kali Nethunter sur Android, divers OS Linux sur USB live etc).
 
-Sur une note plus personnelle, j’aime voyager et vivre en dehors de mon pays d’origine lAustralie. Je vis et voyage actuellement dans et autour de l’Europe. je suis basé en France (bientôt!) mais ayant déjà vécu à Berlin, Dublin, Toronto, Londres et Brisbane.
+Sur une note plus personnelle, j’aime voyager et vivre en dehors de mon pays d’origine l'Australie. Je vis et voyage actuellement dans et autour de l’Europe. je suis basé en France (bientôt!) mais ayant déjà vécu à Berlin, Dublin, Toronto, Londres et Brisbane.
 
 ---------
 
