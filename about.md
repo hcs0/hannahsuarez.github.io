@@ -33,26 +33,13 @@ London, and Brisbane.
 
 **French**
 
-Je suis actuellement consultant pour un logiciel de transfert de fichiers sécurisé, open source
-enthousiaste et contributeur et poursuivant actuellement plus loin spécialisée dans
-la sécurité de l'information.
+Je suis actuellement consultante pour un logiciel de transfert de fichiers sécurisé. Liste enthousiaste, contributrice et poursuivant actuellement ma spécialisation dans la sécurité de l’information.
 
-Entrer dans ce domaine a été mon objectif depuis la mi-2014 après avoir complété un
-défi en ligne de forensics mobile et de me trouver complètement absorbé. ma
-la première conférence était Black Hat dans le cadre d'un programme de bourses en 2015 et mon
-Le premier rôle connexe dans le domaine était à la fin de 2016.
+Entrer dans ce domaine a été mon objectif depuis la mi-2014 après avoir complété un défi en ligne de "forensics mobile" et de me trouver complètement absorbé. Ma première conférence a été Black Hat dans le cadre d'un programme de bourses d'études en 2015 et mon premier rôle connexe dans le domaine a été à la fin de 2016.
 
-Je suis aussi autodidacte ayant appris principalement par moi-même. Je me souviens à l'âge
-11/12 observer comment les ressources Internet chargées sur une page pour essayer de gagner plus d'XP
-points à ce jeu en ligne. J'ai appris à coder en regardant un site web
-code source dans mes adolescents en utilisant le Bloc-notes. J'apprends en faisant ie la configuration de homelab / VM
-(par exemple, Kali sur VM et Kali Nethunter sur Android, divers systèmes d'exploitation Linux sur USB en direct
-etc).
+Je suis aussi autodidacte, ayant appris principalement par moi-même. Je me souviens qu'à l'âge de 11/12 ans, j'observais comment les ressources Internet se chargeaient sur une page pour essayer de gagner plus de points XP à un jeu en ligne. J’ai appris à coder, pendant mon adolescence, en regardant le coude source de sites en utilisant simplement Notepad. J'apprends en faisant de l'installation homelab/VM (Kali sur VM et Kali Nethunter sur Android, divers OS Linux sur USB live etc).
 
-Sur une note personnelle, j'aime voyager et vivre en dehors de mon pays d'origine
-Australie. Je vis et voyage actuellement dans et autour de l'Europe. je suis
-basé en France (bientôt!) mais ayant déjà vécu à Berlin, Dublin, Toronto,
-Londres et Brisbane.
+Sur une note plus personnelle, j’aime voyager et vivre en dehors de mon pays d’origine lAustralie. Je vis et voyage actuellement dans et autour de l’Europe. je suis basé en France (bientôt!) mais ayant déjà vécu à Berlin, Dublin, Toronto, Londres et Brisbane.
 
 ---------
 
