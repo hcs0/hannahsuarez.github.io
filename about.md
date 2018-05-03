@@ -35,11 +35,11 @@ London, and Brisbane.
 
 Je suis actuellement consultante pour un logiciel de transfert de fichiers sécurisé. Liste enthousiaste, contributrice et poursuivant actuellement ma spécialisation dans la sécurité de l’information.
 
-Entrer dans ce domaine a été mon objectif depuis la mi-2014 après avoir complété un défi en ligne de "forensics mobile" et de me trouver complètement absorbé. Ma première conférence a été Black Hat dans le cadre d'un programme de bourses d'études en 2015 et mon premier rôle connexe dans le domaine a été à la fin de 2016.
+Entrer dans ce domaine a été mon objectif depuis la mi-2014 après avoir complété un défi en ligne de "forensics mobile" et de me trouver complètement absorbé. J'ai suivi ma première conférence Black Hat dans le cadre d’un programme de bourses en 2015 et obtenu mon premier rôle dans le domaine à la fin de 2016.
 
-Je suis aussi autodidacte, ayant appris principalement par moi-même. Je me souviens qu'à l'âge de 11/12 ans, j'observais comment les ressources Internet se chargeaient sur une page pour essayer de gagner plus de points XP à un jeu en ligne. J’ai appris à coder, pendant mon adolescence, en regardant le coude source de sites en utilisant simplement Notepad. J'apprends en faisant de l'installation homelab/VM (Kali sur VM et Kali Nethunter sur Android, divers OS Linux sur USB live etc).
+Je suis aussi autodidacte, ayant appris principalement par moi-même. Je me souviens qu'à l'âge de 11/12 ans, j'observais comment les ressources Internet se chargeaient sur une page pour essayer de gagner plus de points XP à un jeu en ligne. J’ai appris à coder, pendant mon adolescence, en regardant le code source de sites en utilisant simplement Notepad. J'apprends en faisant de l'installation homelab/VM (Kali sur VM et Kali Nethunter sur Android, divers OS Linux sur USB live etc).
 
-Sur une note plus personnelle, j’aime voyager et vivre en dehors de mon pays d’origine l'Australie. Je vis et voyage actuellement dans et autour de l’Europe. je suis basé en France (bientôt!) mais ayant déjà vécu à Berlin, Dublin, Toronto, Londres et Brisbane.
+Sur une note plus personnelle, j’aime voyager et vivre en dehors de mon pays d’origine l'Australie. Je vis et voyage actuellement dans et autour de l’Europe. je suis basé en France (bientôt!) mais ai déjà vécu à Berlin, Dublin, Toronto, Londres et Brisbane.
 
 ---------
 
