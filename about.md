@@ -26,7 +26,7 @@ etc).
 
 On a personal note, I enjoy traveling and living outside of my home country of
 Australia. I am currently living and traveling in and around Europe.  I am
-based in France (soon!) but have previously lived in Berlin, Dublin, Toronto,
+based in France (soon!) but have previously lived in Berlin, Dublin, Vancouver, Toronto,
 London, and Brisbane.
 
 ---------
@@ -39,7 +39,7 @@ Entrer dans ce domaine a été mon objectif depuis la mi-2014 après avoir compl
 
 Je suis aussi autodidacte, ayant appris principalement par moi-même. Je me souviens qu'à l'âge de 11/12 ans, j'observais comment les ressources Internet se chargeaient sur une page pour essayer de gagner plus de points XP à un jeu en ligne. J’ai appris à coder, pendant mon adolescence, en regardant le code source de sites en utilisant simplement Notepad. J'apprends en faisant de l'installation homelab/VM (Kali sur VM et Kali Nethunter sur Android, divers OS Linux sur USB live etc).
 
-Sur une note plus personnelle, j’aime voyager et vivre en dehors de mon pays d’origine l'Australie. Je vis et voyage actuellement dans et autour de l’Europe. je suis basé en France (bientôt!) mais ai déjà vécu à Berlin, Dublin, Toronto, Londres et Brisbane.
+Sur une note plus personnelle, j’aime voyager et vivre en dehors de mon pays d’origine l'Australie. Je vis et voyage actuellement dans et autour de l’Europe. je suis basé en France (bientôt!) mais ai déjà vécu à Berlin, Dublin, Vancouver, Toronto, Londres et Brisbane.
 
 ---------
 
@@ -54,7 +54,7 @@ Ich bin auch Autodidakt, der vor allem auf eigene Faust gelernt hat. Ich erinner
 etc).
 
 Auf einer persönlichen Notiz genieße ich es zu reisen und zu leben außerhalb meines Heimatlandes Australien. Ich lebe und reise in und um Europa. ich bin
-Mit Sitz in Frankreich, aber zuvor in Berlin, Dublin, Toronto, London und Brisbane gelebt.
+Mit Sitz in Frankreich, aber zuvor in Berlin, Dublin, Vancouver, Toronto, London und Brisbane gelebt.
 
 ---------
 
