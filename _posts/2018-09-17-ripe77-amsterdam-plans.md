@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RIPE77 - Before the event"
-description: "A RIPE Meeting is a five-day event where Internet Service Providers (ISPs), network operators and other interested parties gather to discuss issues of interest to the Internet community.
+description: "A RIPE Meeting is a five-day event where Internet Service Providers (ISPs), network operators and other interested parties gather."
 comments: true
 keywords: "networking, ISP, conference, event, amsterdam"
 ---
