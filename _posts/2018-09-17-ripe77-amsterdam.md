@@ -31,4 +31,4 @@ A RIPE Meeting is a five-day event where Internet Service Providers (ISPs), netw
 
 [You can also participate remotely here](https://www.ripe.net/participate/meetings/ripe-meetings/take-part-remotely)
 
-I'll be posting more entries as a followup to RIPE77 here!
+> I'll be posting more entries as a followup to RIPE77 here!
