@@ -10,8 +10,6 @@ permalink: /links/
 
 [LinkedIn](https://www.linkedin.com/in/hannahsuarez)
 
-[Public key - work email](https://pgp.mit.edu/pks/lookup?op=get&search=0x2FB6F1FB0FEA6EFF)
-
 [Public key - own email](https://pgp.mit.edu/pks/lookup?op=get&search=0x4C2DCC07E9E12FE6)
 
 Please note that I do not have Instagram or Facebook accounts.
