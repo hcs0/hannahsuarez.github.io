@@ -18,11 +18,13 @@ Please note that I do not have Instagram or Facebook accounts.
 
 [Personal Blog](https://www.hannahsuarez.me/blog/)
 
+[Medium](https://medium.com/@hannahsuarez)
+
 [Github: hcs0](http://www.github.com/hcs0)
 
 [Github: Superuser-Ltd](http://www.github.com/Superuser-Ltd)
 
-[Gitlab: hcs0](https://gitlab.com/users/hcs0/projects) 
+[Gitlab: hcs0](https://gitlab.com/users/hcs0/projects)
 
 [Security Stack Exchange](https://security.stackexchange.com/users/138814/nasahorse)
 
