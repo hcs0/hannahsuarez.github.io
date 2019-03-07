@@ -6,8 +6,6 @@ comments: true
 keywords: "etw, event tracing for windows, eventlog, powershell, windows, windows server"
 ---
 
-# List of ETW Providers on Windows Server 2016
-
 To query, run this command:
 
 ```
