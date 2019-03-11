@@ -3,7 +3,7 @@
 title: "Superuser Ltd"
 title2: " by hcs0" # default: ""
 description: "hcs0 writings"
-keywords: "hcs0, superuser-ltd"
+keywords: "hcs0, superuser-ltd, hannah suarez"
 url: http://superuser-ltd.github.io # site url
 baseurl: null # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
@@ -11,7 +11,7 @@ baseurl: null # apply repo name if use it under gh-pages branch
 google_analytics: UA-59050709-2
 repo: https://github.com/Superuser-Ltd/superuser-ltd.github.io
 twitter_username: "superruserr"
-comments: true 
+comments: true
 
 # Build settings
 permalink   : /:year/:title/
@@ -30,11 +30,11 @@ sass:
 author:
   name     : "Hannah Suarez"
   job      : "💻 Technology Evangelist specializing in security."
-  bio      : "Australian based in Paris, and bit of a traveler as well ✈️"
+  bio      : "Australian based in Paris ✈️"
   thumb    : /images/hannahsuarez.jpg
   url      : http://superuser-ltd.github.io
   github   : http://github.com/hcs0
-  twitter  : http://twitter.com/superruserr
+  gitlab   : http://gitlab.com/hcs0
   linkedin : http://linkedin.com/in/hannahsuarez
 
 # social settings
