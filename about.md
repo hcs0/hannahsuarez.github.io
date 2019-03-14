@@ -28,7 +28,6 @@ etc).
 
 On a personal note, I enjoy traveling and living outside of my home country of
 Australia. I am currently living and traveling in and around Europe.  I am
-based in Paris but have previously lived in Berlin, Dublin, Vancouver, Toronto,
-London, and Brisbane.
+based in Paris and will be in Berlin from June 2019. I have previously lived in Berlin, Dublin, Vancouver, Toronto, London, and Brisbane.
 
 > Content in this site does not represent any of my professional affiliations.
