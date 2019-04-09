@@ -1029,3 +1029,6 @@ WSAT_TraceProvider                       {7F3FE630-462B-47C5-AB07-67CA84934ABD}
 Wudfx02000_KmdfTraceGuid                 {485E7DE9-0A80-11D8-AD15-505054503030}
 XWizard Framework                        {777BA8FF-2498-4875-933A-3067DE883070}
 ```
+---
+
+ There are also two special purpose sessions - `Global Logger Session` and` NT Kernel Logger Session`.
