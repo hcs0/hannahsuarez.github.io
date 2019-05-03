@@ -29,7 +29,7 @@ sass:
 # Author settings
 author:
   name     : "Hannah Suarez"
-  job      : "💻 Technology Evangelist and Technical Writer."
+  job      : "💻 Technology Evangelist"
   bio      : "Specializing in security, networking and sysadmin."
   thumb    : /images/hannahsuarez.jpg
   url      : http://superuser-ltd.github.io

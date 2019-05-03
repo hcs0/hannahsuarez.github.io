@@ -8,8 +8,8 @@ keywords: "msfvenom, metasploit, payloads"
 
 Last updated May 2019
 
-Framework Payloads (546 total) [--payload <value>]
-==================================================
+Framework Payloads (546 total)
+==============================
 
     Name                                                Description
     ----                                                -----------
