@@ -16,9 +16,9 @@ A basic implementation of the DNS system involves a Client (which contains or ru
 
 In enterprise systems, the use cases then become more complicated in order to meet more complex requirements as well as security concerns. Below are two examples of the types of use cases one can deal with in more complex environments:
 
-https://www.cisco.com/c/dam/en/us/products/collateral/ios-nx-os-software/enterprise-ipv6-solution/white_paper_c11-676278.doc/_jcr_content/renditions/white_paper_c11-676278-05.jpg[Use case from Cisco]: "NAT64 translation on a Cisco ASR 1000 Series router running stateful NAT64 when a greenfield IPv6-only network accesses services offered by example.com, residing in an existing IPv4 Internet and network."
+[Use case from Cisco](https://www.cisco.com/c/dam/en/us/products/collateral/ios-nx-os-software/enterprise-ipv6-solution/white_paper_c11-676278.doc/_jcr_content/renditions/white_paper_c11-676278-05.jpg) where "NAT64 translation on a Cisco ASR 1000 Series router running stateful NAT64 when a greenfield IPv6-only network accesses services offered by example.com, residing in an existing IPv4 Internet and network."
 
-https://blogs.technet.microsoft.com/nexthop/2012/11/19/configuring-reverse-proxy-for-lync-server-2010-mobility/[Use case from Microsoft]: Use of an internal DNS server to handle DNS query, which actually resolves to an internal interface of reverse proxy (or, a split brain DNS).
+[Use case from Microsoft](https://blogs.technet.microsoft.com/nexthop/2012/11/19/configuring-reverse-proxy-for-lync-server-2010-mobility/) where the use of an internal DNS server to handle DNS query, which actually resolves to an internal interface of reverse proxy (or, a split brain DNS).
 
 The DNS protocol has some flaws and vulnerabilities in its implementation, allowing it to be exploited. Server hardening will not be covered in this post (perhaps in another), but DNS logging will be and can play a role in further activities like DNS server hardening, incident response involving DNS logs, etc.
 
