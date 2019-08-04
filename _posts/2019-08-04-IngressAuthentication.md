@@ -6,9 +6,9 @@ comments: true
 keywords: "logging, log collection, log management, SIEM, SIEM suite, Rapid7"
 ---
 
-In October 2018, Rapid7 released Universal Event Formats (UEF) as a way to allow event sources to make use of Rapid7 user behavior analytics (UBA) for DHCP, antivirus, ingress authentications, and virtual private network events.
+In October 2018, Rapid7 released Universal Event Formats (UEF) as a way to allow event sources to make use of Rapid7 [user behavior analytics (UBA)](https://www.rapid7.com/solutions/user-behavior-analytics/) for DHCP, antivirus, ingress authentications, and virtual private network events.
 
-UEF is not a log or data source but rather it is more like a ‘contract’. For UEF to work, the data will need to be transformed to meet these fields. The specific fields will depend on what type of Universal Event Source is used although some fields typically share the same attributes such as time (must be a valid ISO 8601 format), event type, version, and additional field for any custom data.
+UEF is not a log or data source but rather it is more like a ‘contract’. For UEF to work, the data will need to be transformed to meet these fields. The specific fields will depend on what type of [Universal Event Source](https://insightidr.help.rapid7.com/docs/rapid7-universal-event-sources) is used although some fields typically share the same attributes such as time (must be a valid ISO 8601 format), event type, version, and additional field for any custom data.
 
 ## Why ingress authentication?
 
@@ -20,7 +20,7 @@ The MITRE ATT&CK Matrix resource as another way to build potential adversary sce
 
 ## Collecting Windows Ingress Authentication and rewriting them to the Universal Event Format
 
-While Rapid7 published a post utilizing the KVP module and other modules available as free/open source community software NXLog Community Edition, there is also another method but utilizes the rewrite module, the xm_rewrite, which allows fields to be renamed, kept (whitelisted), or deleted (blacklisted).
+While Rapid7 published a [post](https://blog.rapid7.com/2018/10/16/universal-event-formats-in-insightidr-a-step-by-step-nxlog-guide/) utilizing the KVP module and other modules available as free/open source community software NXLog Community Edition, there is also another method but utilizes the rewrite module, the [xm_rewrite](https://nxlog.co/documentation/nxlog-user-guide/xm_rewrite.html), which allows fields to be renamed, kept (whitelisted), or deleted (blacklisted).
 
 Being able to configure which fields to keep, delete, and rewrite is required to write the log data in the UEF contract. For example, the raw data field for time needs to be written in the ISO 8601 format, for example.
 
@@ -42,7 +42,9 @@ Since the endpoint in which log collection has taken place is on an EC2 instance
 
 ## Creating a test dashboard for UEF Ingress Authentication sample events
 
-Overall, there are at least two methods (or modules offered by NXLog) to write fields to meet the UEF contract for setting up a data source utilizing the Rapid7 Universal Event Format. There are already other ways to collect security events on Windows EventLog including their Generic Windows EventLog data source and you can even convert EventLog to a Syslog format (Syslog Snare) for the Generic Syslog data source, or if these are converted to JSON or some other KVP format, one can the use Raw Data option as the data source input. UEF was, of course, the only option that automatically allocates some further details to aid in user attribution.
+![Photo](/assets/images/insightidr_dashboard.png)
+
+Overall, there are at least two methods (or modules offered by NXLog) to write fields to meet the UEF contract for setting up a data source utilizing the Rapid7 Universal Event Format. There are already other ways to collect security events on Windows EventLog including their [Generic Windows EventLog](https://insightidr.help.rapid7.com/docs/generic-windows-event-log) data source and you can even convert EventLog to a Syslog format (Syslog Snare) for the [Generic Syslog](https://insightidr.help.rapid7.com/docs/generic-syslog) data source, or if these are converted to JSON or some other KVP format, one can the use [Raw Data](https://insightidr.help.rapid7.com/docs/raw-data) option as the data source input. UEF was, of course, the only option that automatically allocates some further details to aid in user attribution.
 
 ## Universal Event Format versus EventLog in Structured Log (JSON, in this case) or going beyond Structured Log Collection.
 
