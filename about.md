@@ -6,18 +6,22 @@ permalink: /about/
 
 ![Author](/assets/images/author.png)
 
-**English**
 
-I am currently a Technical Evangelist for NXLog. NXLog is a multi-platform log management tool that helps to easily identify security risks, policy breaches or analyze operational problems in server logs, operation system logs and application logs.
+I am currently a fractional CISO having onboarded and implemented data protection and information
+security management systems across the marketing, software, aviation industries.  I am also
+senior cyber security risk consultant specializing in third party risk management and SOX compliance
+for a blue chip German telecommunications company.
 
-Previously, I was a consultant for a secure file transfer software, open source
-enthusiast and contributor and currently pursuing further specialization in
+Previously, I was a Technical Writer for Domain Tools and Technical Evangelist for NXLog. 
+NXLog is a multi-platform log management tool
+that helps to easily identify security risks, policy breaches or analyze operational problems in
+server logs, operation system logs and application logs. consultant for a secure file transfer software,
+open source enthusiast and contributor and currently pursuing further specialization in
 information security.
 
 Entering this field has been my goal since mid 2014 having completed a digital
-mobile forensics online challenge and finding myself completely engrossed. My
-first conference was Black Hat as part of a scholarship program in 2015 and my
-first related role in the field was in late 2016.
+mobile forensics online challenge and finding myself completely engrossed in cyber
+security.
 
 I am also autodidact having learnt primarily on my own. I remember at age
 11/12 observing how Internet resources loaded on a page to try and gain more XP
@@ -27,7 +31,8 @@ source code in my teens using Notepad.  I learn by doing ie homelab/VM setup
 etc).
 
 On a personal note, I enjoy traveling and living outside of my home country of
-Australia. I am currently living and traveling in and around Europe.  I am
-based in Berlin. I have previously lived in Paris, Dublin, Vancouver, Toronto, London, and Brisbane.
+Australia as a digital nomad. I am currently living and traveling in and around Europe.  I am
+based in Dubai. I have previously lived in Paris, Dublin, Vancouver, Toronto, London, 
+Berlin and Brisbane.
 
 > Content in this site does not represent any of my professional affiliations.
