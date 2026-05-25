@@ -28,11 +28,9 @@ I am also autodidact having learnt primarily on my own. I remember at age
 points at this online game. I learnt how to code by looking at a website's
 source code in my teens using Notepad.  I learn by doing ie homelab/VM setup
 (ie Kali on VM and Kali Nethunter on Android, various Linux OS' on live USB
-etc).
+etc).  Right now, I am learning in a structured way on the following topics:
+1. Mastering AI Agents with OpenAI Agents SDK, CrewAI, LangGraph, AutoGen and MCP, 2. Build and deploy 8 LLM apps, mastering Generative AI, RAG, LoRA and AI Agents and 3. Deploy AI to AWS, GCP, Azure, Vercel with MLOps, Bedrock, SageMaker, RAG, Agents, MCP
 
-On a personal note, I enjoy traveling and living outside of my home country of
-Australia as a digital nomad. I am currently living and traveling in and around Europe.  I am
-based in Dubai. I have previously lived in Paris, Dublin, Vancouver, Toronto, London,
-Berlin and Brisbane.
+I enjoy traveling and living outside of my home country of Australia as a digital nomad. I am currently splitting my time between Dubai, UAE and Italy. But, I enjoy travelling around the world and I have previously lived in Paris, Dublin, Vancouver, Toronto, London, Berlin and Brisbane! For sports, I'm into tennis, golf (just started learning) and the occassional hike. Since I used to work in the arts and creative industries, I also love to try to spend more time going to art fairs and learning more about arts, culture and architecture.
 
 > Content in this site does not represent any of my professional affiliations.
